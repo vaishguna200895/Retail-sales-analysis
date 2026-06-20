@@ -206,22 +206,19 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+1. **Clone the Repository**
+   Download or clone the project from GitHub to your local machine.
 
-## Author - Zero Analyst
+2. **Create the Database**
+   Execute the SQL scripts in the `database_setup.sql` file to create the database and import the retail sales dataset.
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+3. **Perform Data Analysis**
+   Run the SQL queries provided in the `analysis_queries.sql` file to explore the data and generate business insights.
 
-### Stay Updated and Join the Community
+4. **Customize and Explore**
+   Modify existing queries or create new ones to perform additional analysis and answer specific business questions.
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+5. **Review Insights**
+   Analyze the query outputs to understand sales performance, customer behavior, product trends, and business growth opportunities.
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
-
-Thank you for your support, and I look forward to connecting with you!
+---Thank you..
