@@ -2,18 +2,23 @@
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
-**Database**: `p1_retail_db`
+**Project Title: Retail Sales Analysis
+**Database: p1_retail_db
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
+The Retail Sales Analysis project focuses on analyzing retail transaction data to identify sales trends, customer purchasing behavior, and category-wise business performance using SQL. The project includes database creation, data cleaning, exploratory data analysis (EDA), and business intelligence reporting.
+
+By leveraging SQL queries, the analysis provides insights into revenue generation, customer demographics, product performance, peak sales periods, and high-value transactions. The project demonstrates the ability to transform raw sales data into actionable business insights that support data-driven decision-making.
+
 
 ## Objectives
 
-1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
-2. **Data Cleaning**: Identify and remove any records with missing or null values.
-3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
+1. **Database Development**: Create and populate a retail sales database with transactional sales data for analysis.
+2. **Data Cleaning & Validation**: Identify and handle missing, null, or inconsistent records to ensure data quality.
+3. **Exploratory Data Analysis (EDA)**: Analyze the dataset to understand customer behavior, sales trends, and product performance.
+4. **Sales Performance Analysis**: Evaluate revenue, transaction volumes, and category-wise sales performance.
+5. **Customer Insights**: Identify purchasing patterns, top customers, and demographic trends.
+6. **Business Intelligence Reporting**: Use SQL queries to generate actionable insights that support business decision-making.
+
 
 ## Project Structure
 
@@ -221,4 +226,8 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 5. **Review Insights**
    Analyze the query outputs to understand sales performance, customer behavior, product trends, and business growth opportunities.
 
----Thank you..
+-Author
+
+Vaishnavi
+
+Skills Demonstrated: SQL, Data Cleaning, Data Validation, Exploratory Data Analysis (EDA), Business Analysis, Reporting, Aggregations, Window Functions
